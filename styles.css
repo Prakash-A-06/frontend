@@ -1,0 +1,29 @@
+body{
+    color:black;
+    background-color: lightgreen;
+
+}
+#main{
+    margin:auto;
+    margin-left: 35%;
+}
+#idp{
+    margin-left:20%;
+}
+div{
+    background-color: lightseagreen;
+    width:800px;
+    margin:auto;
+    margin-top:20px;
+    box-shadow:yellow 10px 10px;
+}
+#title{
+    color:white;
+    padding-top: 20px;
+    padding-left: 30%;
+    margin:auto;
+}
+li{
+    padding-top:10px;
+    padding-bottom: 10px;
+}
